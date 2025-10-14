@@ -128,23 +128,6 @@ sh webcam.sh
 
 
 
-
-## :question: Get Help
-
-There are few ways to get help:
-
-
-
- 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
- 2. For bug reports and feature requests, open issues. :bug:
- 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
-
-
-
-
-
-
-
 ## :memo: Documentation
 
 
@@ -216,6 +199,24 @@ Converts the provided image in ASCII art.
 
 
 
+## :question: Get Help
+
+There are few ways to get help:
+
+
+
+ 1. Please [post questions on Stack Overflow](https://stackoverflow.com/questions/ask). You can open issues with questions, as long you add a link to your Stack Overflow question.
+ 2. For bug reports and feature requests, open issues. :bug:
+ 3. For direct and quick help, you can [use Codementor](https://www.codementor.io/johnnyb). :rocket:
+
+
+
+
+
+
+
+
+
 
 
 
@@ -255,50 +256,6 @@ Thanks! :heart:
 
 
 
-
-
-
-## :dizzy: Where is this library used?
-If you are using this library in one of your projects, add it in this list. :sparkles:
-
- - `@radic/cli`
- - `aceituna`
- - `adventure-cli`
- - `alphabet-cli`
- - `ascii-github`
- - `ascii-video`
- - `bing-cli`
- - `cli-emoji`
- - `cli-github`
- - `core-node-pokemon`
- - `doomjs`
- - `generator-rn-boilerplate`
- - `gif-cli`
- - `gongxi`
- - `goteem`
- - `ick`
- - `image-to-ascii-cli`
- - `image-to-js`
- - `img-to-svg`
- - `imgurize`
- - `jacky`
- - `joctodex`
- - `js2image`
- - `linterf`
- - `mdy`
- - `moltres-cli`
- - `nobro`
- - `node.cobol`
- - `noslide-js`
- - `nrk-tv-cli`
- - `path-cli`
- - `pictoprime`
- - `pokedex-cli-tt`
- - `provisiontui-david-keng`
- - `salestock-cli`
- - `sprite-cli-js`
- - `terminal-sidecar`
- - `tmuxos`
 
 
 
